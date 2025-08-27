@@ -1,4 +1,5 @@
-fastapi 
+fastapi
 uvicorn
-flask 
+gunicorn
 requests
+pydantic
