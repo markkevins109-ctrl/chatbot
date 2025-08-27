@@ -5,7 +5,7 @@ import requests
 app = FastAPI()
 
 # Your Groq API key (keep private)
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 MODEL = "llama3-8b-8192"
 
 
